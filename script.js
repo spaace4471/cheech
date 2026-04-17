@@ -4,6 +4,9 @@ let zoneFrame = document.getElementById('zoneFrame');
 const searchBar = document.getElementById('searchBar');
 const sortOptions = document.getElementById('sortOptions');
 // https://www.jsdelivr.com/tools/purge
+// https://cdn.jsdelivr.net/gh/spaace4471/assets@main/zones.json
+// https://cdn.jsdelivr.net/gh/spaace4471/covers@main
+// https://cdn.jsdelivr.net/gh/spaace4471/html@main
 const zonesURL = "https://cdn.jsdelivr.net/gh/spaace4471/assets@main/zones.json";
 const coverURL = "https://cdn.jsdelivr.net/gh/spaace4471/covers@main";
 const htmlURL = "https://cdn.jsdelivr.net/gh/spaace4471/html@main";
